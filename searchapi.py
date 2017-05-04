@@ -49,10 +49,10 @@ def get_articles(begin_date=None, end_date=None):
     all_articles = []
     
     if begin_date is None:
-        begin_date = '20150101'
+        begin_date = '20170120'
 
     if end_date is None:
-        end_date = '20170420'
+        end_date = '20170429'
 
 
     for page in range(0, 20):
@@ -81,53 +81,33 @@ def get_articles(begin_date=None, end_date=None):
 if __name__ == "__main__":
 
     prompt = """ Hello. This is your scrappy program. Do you want:
-    1. to know the date of the last article
-    2. See the whole json
-    3. Make a search
-    4. Quit
+    1. Make a search for Admin
+    2. See the whole json 
+    3. Quit
     """
     while True:
         ask_user = int(raw_input(prompt))
 
         if ask_user == 1:
-            if not os.path.isfile('/Users/cristina/src/NewYorkTimes/data.json'):
-                print "There is not file yet"
-            else:
-                with open('data.json') as feedsjson:
-                    feeds = json.load(feedsjson)
-                    last_article = feeds[-1]['date'][0:10]
-                    end_date = last_article.replace("-", "")
-                    print end_date
+            if not os.path.isfile('/Users/cristina/src/NewYorkTimes/data_trump.json'):
+                print "the begin_date is 20170120"
+                search = get_articles()
+                with open('data_trump.json', 'wr') as outfile:
+                    json.dump(search, outfile, sort_keys=True, indent=4, ensure_ascii=False)
  
         elif ask_user == 2:
-            if not os.path.isfile('/Users/cristina/src/NewYorkTimes/data.json'):
+            if not os.path.isfile('/Users/cristina/src/NewYorkTimes/data_trump.json'):
                 print "There is not file yet"
             else:
-                with open('data.json') as feedsjson:
+                with open('data_trump.json') as feedsjson:
                     feeds = json.load(feedsjson)
                     pprint.pprint(feeds)
 
         elif ask_user == 3:
-            if not os.path.isfile('/Users/cristina/src/NewYorkTimes/data.json'):
-                print "the begin_date is 20150101"
-                search = get_articles()
-                with open('data.json', 'wr') as outfile:
-                    json.dump(search, outfile, sort_keys=True, indent=4, ensure_ascii=False)
-
-            else:
-                with open('data.json', 'ab') as feedsjson:
-                    feeds = json.load(feedsjson)
-                    last_article = feeds[-1]['date'][0:10]
-                    end_date = last_article.replace("-", "")
-                    print "the end_date is %s" % (end_date)
-                    search = get_articles(end_date)
-                    feeds.append(search)
-                    with open('data.json', 'ab') as outfile:
-                        json.dumps(feeds, outfile, sort_keys=True, indent=4, ensure_ascii=False)
-
-        elif ask_user == 4:
             break
 
         else:
             print "I don't understand that directive"
+
+
 

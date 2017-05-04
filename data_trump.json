@@ -1,5 +1,404 @@
 [
     {
+        "date": "2017-04-29T17:29:33+0000", 
+        "desk": "Summary", 
+        "headline": "Meet the Mexico Bureau Chief. (His Job Has Changed Since Trump.)", 
+        "id": "5904cd837c459f24986dcdff", 
+        "locations": [
+            "Central America", 
+            "Mexico"
+        ], 
+        "section": "Times Insider", 
+        "snippet": "Azam Ahmed, who is bureau chief for Mexico, Central America and the Caribbean, says the new spotlight on Mexico has helped reveal its contradictions....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "News and News Media", 
+            "Freedom of the Press"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/29/insider/mexicos-contradictions-trump-azam-ahmed-profile.html", 
+        "word_count": 746
+    }, 
+    {
+        "date": "2017-04-29T07:00:45+0000", 
+        "desk": "Foreign", 
+        "headline": "In Mexico, ‘It’s Easy to Kill a Journalist’", 
+        "id": "59043a237c459f24986dcd5e", 
+        "locations": [
+            "Mexico", 
+            "Veracruz (Mexico)"
+        ], 
+        "section": "World", 
+        "snippet": "The state of Veracruz is the hemisphere’s most dangerous place to be a reporter. The authorities seem ill equipped to stop attacks on the press, and in some cases appear entangled in them....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "News and News Media", 
+            "Murders, Attempted Murders and Homicides", 
+            "Freedom of the Press", 
+            "Police Brutality, Misconduct and Shootings", 
+            "Human Rights and Human Rights Violations", 
+            "Drug Cartels", 
+            "Corruption (Institutional)", 
+            "vis-photo"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/29/world/americas/veracruz-mexico-reporters-killed.html", 
+        "word_count": 3266
+    }, 
+    {
+        "date": "2017-04-28T20:37:32+0000", 
+        "desk": "National", 
+        "headline": "Trump Orders Review of Safety Rules Created After Gulf Oil Spill", 
+        "id": "5903a8137c459f24986dcc5e", 
+        "locations": [
+            "Gulf of Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "President Trump aims to roll back the Obama administration’s attempts to ban oil drilling off the southeastern Atlantic and Alaskan coasts....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "United States Politics and Government", 
+            "Oil (Petroleum) and Gasoline", 
+            "Gulf of Mexico Oil Spill (2010)", 
+            "Offshore Drilling and Exploration"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/28/us/politics/trump-orders-review-of-safety-rules-created-after-gulf-oil-spill.html", 
+        "word_count": 748
+    }, 
+    {
+        "date": "2017-04-27T19:51:19+0000", 
+        "desk": "Business", 
+        "headline": "Revisiting Nafta: The Stakes for Key Industries", 
+        "id": "59024bc77c459f24986dc850", 
+        "locations": [
+            "United States", 
+            "Canada", 
+            "Mexico"
+        ], 
+        "section": "Business Day", 
+        "snippet": "President Trump says he won’t immediately try to terminate the North American Free Trade Agreement, but some sectors would be vulnerable in a renegotiation....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "North American Free Trade Agreement", 
+            "Automobiles", 
+            "Agriculture and Farming", 
+            "Shopping and Retail", 
+            "Drugs (Pharmaceuticals)"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/27/business/economy/nafta-impact-industries-cars-agriculture-apparel-pharmaceuticals.html", 
+        "word_count": 1127
+    }, 
+    {
+        "date": "2017-04-27T19:50:48+0000", 
+        "desk": "National", 
+        "headline": "Fact Check: The Trump Administration’s Argument for a Border Wall", 
+        "id": "59024ba17c459f24986dc84f", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "In anticipation of a debate over a proposed wall along the Mexican border, rhetoric about threats facing the United States has escalated....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "United States Politics and Government", 
+            "Drug Abuse and Traffic", 
+            "Smuggling", 
+            "Drug Cartels", 
+            "Immigration and Emigration"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/27/us/politics/fact-check-trump-border-wall-mexico.html", 
+        "word_count": 800
+    }, 
+    {
+        "date": "2017-04-27T15:57:18+0000", 
+        "desk": "Foreign", 
+        "headline": "A Poised Mexico Sees Trump Anew: a ‘Bluffer’ at the Poker Table", 
+        "id": "590214e47c459f24986dc790", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "World", 
+        "snippet": "President Trump used to be able to anger Mexico easily, but leaders there have developed a thicker skin as they prepare to renegotiate Nafta with the United States....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "United States International Relations", 
+            "North American Free Trade Agreement"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/27/world/americas/mexico-trump-nafta-trade.html", 
+        "word_count": 1237
+    }, 
+    {
+        "date": "2017-04-27T12:16:00+0000", 
+        "desk": "National", 
+        "headline": "Trump’s Day of Hardball and Confusion on Nafta", 
+        "id": "5901e1087c459f24986dc6c3", 
+        "locations": [
+            "Canada", 
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "White House officials portrayed the president’s reversals as a vindication of his management style, saying he had brought Mexico and Canada to the negotiating table....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "United States Politics and Government", 
+            "North American Free Trade Agreement", 
+            "International Trade and World Market"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/27/us/politics/trump-says-he-will-renegotiate-nafta-or-terminate-it.html", 
+        "word_count": 1252
+    }, 
+    {
+        "abstract": "After Lujan Agusti encountered dancing clowns during a religious procession, she set out to create surreal, colorful portraits that explore their complex history.", 
+        "date": "2017-04-27T08:00:42+0000", 
+        "desk": null, 
+        "headline": "Meet the Dancing Holy Clowns of Mexico", 
+        "id": "5901a5aa7c459f24986dc609", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "Multimedia/Photos", 
+        "snippet": "After Lujan Agusti encountered dancing clowns during a religious procession, she set out to create surreal, colorful portraits that explore their complex history....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Clowns", 
+            "Dancing", 
+            "Photography"
+        ], 
+        "type": "Blog", 
+        "url": "https://lens.blogs.nytimes.com/2017/04/27/meet-the-dancing-holy-clowns-of-mexico-lujan-agusti/", 
+        "word_count": 758
+    }, 
+    {
+        "date": "2017-04-27T07:05:48+0000", 
+        "desk": "Blogs", 
+        "headline": "Meet the Dancing Holy Clowns of Mexico", 
+        "id": "590198547c459f24986dc5d1", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "Blogs", 
+        "snippet": "After Lujan Agusti encountered dancing clowns during a religious procession, she set out to create surreal, colorful portraits that explore their complex history....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Clowns", 
+            "Photography"
+        ], 
+        "type": "Slideshow", 
+        "url": "https://www.nytimes.com/slideshow/2017/04/27/blogs/meet-the-dancing-holy-clowns-of-mexico.html", 
+        "word_count": 23
+    }, 
+    {
+        "date": "2017-04-26T21:54:15+0000", 
+        "desk": "Foreign", 
+        "headline": "In Mexico, an Epidemic of Fuel Thefts Becomes a Crisis", 
+        "id": "5901170a7c459f24986dc4c9", 
+        "locations": [
+            "Mexico", 
+            "Puebla (Mexico)"
+        ], 
+        "section": "World", 
+        "snippet": "The pilfering of gasoline for sale on the black market has soared in recent years, backed by criminal groups using bribery and violence....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Oil (Petroleum) and Gasoline", 
+            "Robberies and Thefts"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/26/world/americas/mexico-fuel-theft-crisis.html", 
+        "word_count": 1437
+    }, 
+    {
+        "date": "2017-04-26T19:45:35+0000", 
+        "desk": "Business", 
+        "headline": "Trump Tells Foreign Leaders That Nafta Can Stay for Now", 
+        "id": "5900f8e47c459f24986dc461", 
+        "locations": [
+            "Canada", 
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "In evening telephone calls with the president of Mexico and the prime minister of Canada, President Trump said he would quickly start the process of renegotiating Nafta — not end it....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "North American Free Trade Agreement", 
+            "United States Politics and Government", 
+            "International Trade and World Market", 
+            "Executive Orders and Memorandums", 
+            "United States International Relations"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/26/us/politics/nafta-executive-order-trump.html", 
+        "word_count": 1281
+    }, 
+    {
+        "date": "2017-04-25T23:29:18+0000", 
+        "desk": "National", 
+        "headline": "Threat of Government Shutdown Fades as Trump Retreats on Wall", 
+        "id": "58ffdbd57c459f24986dc135", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "Lawmakers are negotiating a spending bill that would supply no money for a border wall but would increase funding for the military and other border security measures....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Federal Budget (US)", 
+            "United States Politics and Government", 
+            "Border Barriers"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/25/us/politics/federal-budget-shutdown-congress.html", 
+        "word_count": 1181
+    }, 
+    {
+        "date": "2017-04-25T16:03:57+0000", 
+        "desk": "National", 
+        "headline": "Wall ‘Will Get Built,’ Trump Insists, as He Drops Funding Demand", 
+        "id": "58ff73767c459f24986dbfbf", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "The president signaled that he could accept a short-term spending bill that did not include money for a barrier at the Mexican border....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Illegal Immigration", 
+            "Border Barriers"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/25/us/politics/mexico-wall-spending-trump.html", 
+        "word_count": 980
+    }, 
+    {
+        "abstract": "A portrait series looks at Mexican grandmothers in New York who are the economic and cultural anchors of their families.", 
+        "date": "2017-04-25T08:00:16+0000", 
+        "desk": null, 
+        "headline": "Abuelas Who Keep Mexico in Their Hearts", 
+        "id": "58ff02f97c459f24986dbe62", 
+        "locations": [
+            "Brooklyn (NYC)", 
+            "Mexico"
+        ], 
+        "section": "Multimedia/Photos", 
+        "snippet": "A portrait series looks at Mexican grandmothers in New York who are the economic and cultural anchors of their families....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Foreign Workers", 
+            "Immigration and Emigration", 
+            "Photography", 
+            "Women and Girls"
+        ], 
+        "type": "Blog", 
+        "url": "https://lens.blogs.nytimes.com/2017/04/25/far-from-mexico-but-close-to-their-hearts/", 
+        "word_count": 791
+    }, 
+    {
+        "date": "2017-04-25T07:05:52+0000", 
+        "desk": "Blogs", 
+        "headline": "Far From Mexico, These Abuelas Keep It Close to Their Hearts", 
+        "id": "58fef5547c459f24986dbe3a", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "Blogs", 
+        "snippet": "A portrait series looks at Mexican grandmothers in New York who are the economic and cultural anchors of their families....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Photography"
+        ], 
+        "type": "Slideshow", 
+        "url": "https://www.nytimes.com/slideshow/2017/04/25/blogs/far-from-mexico-these-abuelas-keep-it-close-to-their-hearts.html", 
+        "word_count": 20
+    }, 
+    {
+        "date": "2017-04-24T22:04:03+0000", 
+        "desk": "National", 
+        "headline": "The Spending Bill Was Supposed to Be Easy. Then Trump Intervened.", 
+        "id": "58fe76597c459f24986dbd6d", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "U.S.", 
+        "snippet": "Republicans may control Washington, but the president’s insistence on money for his proposed border wall has turned a sure thing into a major drama....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Federal Budget (US)", 
+            "United States Politics and Government", 
+            "Shutdowns (Institutional)", 
+            "Border Barriers"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/24/us/politics/congress-spending-bill-wall-trump.html", 
+        "word_count": 1171
+    }, 
+    {
+        "date": "2017-04-23T17:20:59+0000", 
+        "desk": "Foreign", 
+        "headline": "Where Machismo Is Entrenched, Focus Moves to the Trenches", 
+        "id": "58fce2837c459f24986db9f0", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "World", 
+        "snippet": "Some Mexican men, concerned that their macho views have harmed their relationships with women, are trying group therapy. Will that change the culture?...", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Men and Boys", 
+            "Women's Rights", 
+            "Domestic Violence"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/23/world/americas/where-machismo-is-entrenched-focus-moves-to-the-trenches.html", 
+        "word_count": 1150
+    }, 
+    {
+        "date": "2017-04-21T14:48:06+0000", 
+        "desk": "Arts&Leisure", 
+        "headline": "Trump Proposed a Wall. They Imagined How It Would Work.", 
+        "id": "58fa1bb17c459f24986db635", 
+        "locations": [
+            "Mexico"
+        ], 
+        "section": "Movies", 
+        "snippet": "Animators, documentarians and other filmmakers have found inspiration in the idea of a physical barrier at the United States-Mexico border....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Movies", 
+            "Art", 
+            "Border Barriers", 
+            "United States Politics and Government"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/21/movies/trump-border-wall-films.html", 
+        "word_count": 1474
+    }, 
+    {
+        "date": "2017-04-21T09:00:31+0000", 
+        "desk": "SundayBusiness", 
+        "headline": "Affordable Care Act: A Tale of Two States", 
+        "id": "58f9ca357c459f24986db52a", 
+        "locations": [
+            "New Mexico", 
+            "Oklahoma"
+        ], 
+        "section": "Health", 
+        "snippet": "In Oklahoma, which has raged against the law, insurance premiums are among the nation’s highest. New Mexico, which oversees its marketplace, has some of the lowest....", 
+        "source": "The New York Times", 
+        "subjects": [
+            "Health Insurance and Managed Care", 
+            "Patient Protection and Affordable Care Act (2010)", 
+            "States (US)"
+        ], 
+        "type": "News", 
+        "url": "https://www.nytimes.com/2017/04/21/health/how-gop-in-2-states-coaxed-the-health-law-to-success-or-crisis.html", 
+        "word_count": 1614
+    }, 
+    {
         "date": "2017-04-19T14:40:39+0000", 
         "desk": "Foreign", 
         "headline": "Corruption at a Level of Audacity ‘Never Seen in Mexico’", 
@@ -31,9 +430,7 @@
         "source": "The New York Times", 
         "subjects": [
             "Travel and Vacations", 
-            "Dating and Relationships", 
-            "Marriages", 
-            "Weddings and Engagements"
+            "Dating and Relationships"
         ], 
         "type": "News", 
         "url": "https://www.nytimes.com/2017/04/19/travel/marriage-uncertain-future-mexico-sarah-hepola.html", 
@@ -2327,7 +2724,7 @@
             "Mexico"
         ], 
         "section": "U.S.", 
-        "snippet": "President Trump ordered the construction of a Mexican border wall on Wednesday. The contentious pledge to build a wall and force Mexico to pay for it was a touchstone of his campaign....", 
+        "snippet": "President Trump ordered the construction of a Mexican border wall in January. The contentious pledge to build a wall and force Mexico to pay for it was a touchstone of his campaign....", 
         "source": "The New York Times", 
         "subjects": [
             "Border Barriers", 
@@ -2335,7 +2732,7 @@
         ], 
         "type": "Video", 
         "url": "https://www.nytimes.com/video/us/politics/100000004892467/trump-expected-to-order-mexican-border-wall.html", 
-        "word_count": "32"
+        "word_count": 32
     }, 
     {
         "date": "2017-01-25T01:39:45+0000", 
@@ -2476,1779 +2873,5 @@
         "type": "News", 
         "url": "https://www.nytimes.com/2017/01/20/nyregion/el-chapo-guzman-mexican-us.html", 
         "word_count": "1102"
-    }, 
-    {
-        "date": "2017-01-19T21:48:59+0000", 
-        "desk": "Editorial", 
-        "headline": "A Diplomat’s Advice for the Trump Administration", 
-        "id": "588134527c459f2525d1790c", 
-        "locations": [
-            "Dominican Republic", 
-            "El Salvador", 
-            "Latin America", 
-            "Mexico", 
-            "Puerto Rico", 
-            "Cuba"
-        ], 
-        "section": "Opinion", 
-        "snippet": "The Obama administration’s top diplomat for Latin America reflects on her career, relations with Mexico and the limits of a wall....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "United States International Relations", 
-            "Diplomatic Service, Embassies and Consulates", 
-            "United States Politics and Government", 
-            "Puerto Ricans"
-        ], 
-        "type": "Editorial", 
-        "url": "https://www.nytimes.com/2017/01/19/opinion/a-diplomats-advice-for-the-trump-administration.html", 
-        "word_count": "914"
-    }, 
-    {
-        "date": "2017-01-19T01:39:31+0000", 
-        "desk": "Foreign", 
-        "headline": "Isidro Baldenegro, Mexican Environmental Activist, Is Shot to Death", 
-        "id": "588018db7c459f2525d175ad", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Mr. Baldenegro, winner of the Goldman Environmental Prize, defended the western Sierra Madre’s old-growth forests against powerful local strongmen....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Human Rights and Human Rights Violations", 
-            "Drug Abuse and Traffic", 
-            "Forests and Forestry"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/18/world/americas/mexico-environmental-activist-shot-sierra-madre.html", 
-        "word_count": "633"
-    }, 
-    {
-        "date": "2017-01-18T21:28:23+0000", 
-        "desk": "Metro", 
-        "headline": "A Passport Stamp Gives Dreamers Hope as the Trump Era Looms", 
-        "id": "587fddff7c459f2525d174f0", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "N.Y. / Region", 
-        "snippet": "Students who came to the U.S. illegally as children traveled recently to Mexico. Upon return, their passports were stamped, giving them proof of legal entry — which one day could come in handy....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Illegal Immigration", 
-            "Mexican-Americans", 
-            "Citizenship and Naturalization"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/18/nyregion/a-passport-stamp-gives-dreamers-hope-as-the-trump-era-looms.html", 
-        "word_count": "1125"
-    }, 
-    {
-        "date": "2017-01-18T00:11:05+0000", 
-        "desk": "Business", 
-        "headline": "Land Rush in Permian Basin, Where Oil Is Stacked Like a Layer Cake", 
-        "id": "587eb2a47c459f2525d17171", 
-        "locations": [
-            "Texas", 
-            "New Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Exxon Mobil is the latest company to acquire a major parcel in the fields of West Texas and New Mexico as shale drilling promises a new bounty....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Oil (Petroleum) and Gasoline", 
-            "Shale", 
-            "Mergers, Acquisitions and Divestitures"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/17/business/energy-environment/exxon-mobil-permian-basin-oil.html", 
-        "word_count": "913"
-    }, 
-    {
-        "date": "2017-01-17T19:30:19+0000", 
-        "desk": "Letters", 
-        "headline": "Jobs for Mexicans", 
-        "id": "587e70d07c459f2525d170a2", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "A Yale professor writes that Mexican wages have stagnated because of an imbalance between workers and jobs....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Labor and Jobs", 
-            "North American Free Trade Agreement"
-        ], 
-        "type": "Letter", 
-        "url": "https://www.nytimes.com/2017/01/17/opinion/jobs-for-mexicans.html", 
-        "word_count": "241"
-    }, 
-    {
-        "date": "2017-01-17T14:49:55+0000", 
-        "desk": "OpEd", 
-        "headline": "Trump Threatens a Good Neighbor", 
-        "id": "587e2f1b7c459f2525d16fc1", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Mexico must be prepared to shed its historically conciliatory stance....", 
-        "source": "International New York Times", 
-        "subjects": [], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2017/01/17/opinion/trump-threatens-a-good-neighbor.html", 
-        "word_count": "1139"
-    }, 
-    {
-        "date": "2017-01-17T01:18:28+0000", 
-        "desk": "National", 
-        "headline": "Mexico or America? A Couple, One of Them Undocumented, Weigh the Risks of Where to Live", 
-        "id": "587d70ec7c459f2525d16dfe", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "A family in Harlem struggles with whether to stay or go after vowing to leave in a Trump administration....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Illegal Immigration", 
-            "United States Politics and Government", 
-            "Deportation", 
-            "Families and Family Life"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/16/us/politics/mexico-or-america-a-couple-one-of-them-undocumented-weigh-the-risks-of-where-to-live.html", 
-        "word_count": "2199"
-    }, 
-    {
-        "date": "2017-01-16T21:43:35+0000", 
-        "desk": "Foreign", 
-        "headline": "As Inauguration Nears, Trump Keeps World Leaders on Edge", 
-        "id": "587d3e8d7c459f2525d16db6", 
-        "locations": [
-            "Europe", 
-            "China", 
-            "Germany", 
-            "Russia", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The president-elect drew global responses after an interview with The Wall Street Journal and with two European newspapers, Bild and The Times of London....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "International Trade and World Market", 
-            "Inaugurations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/16/world/donald-trump-world-leaders.html", 
-        "word_count": "916"
-    }, 
-    {
-        "date": "2017-01-16T21:42:30+0000", 
-        "desk": "World / Americas", 
-        "headline": "Deadly Shooting at Mexico Music Festival", 
-        "id": "587d3e4b7c459f2525d16db3", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "A gunman opened fire in a crowded nightclub during an international musical festival in Playa Del Carmen on the Yucatán Peninsula. Five people were killed....", 
-        "source": "AP", 
-        "subjects": [
-            "Murders, Attempted Murders and Homicides", 
-            "Bars and Nightclubs"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/world/americas/100000004874583/deadly-shooting-at-mexico-music-festival.html", 
-        "word_count": "25"
-    }, 
-    {
-        "date": "2017-01-16T20:34:14+0000", 
-        "desk": "Foreign", 
-        "headline": "5 Killed at BPM Festival in Mexico", 
-        "id": "587d2e527c459f2525d16d95", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "An attacker was sought after opening fire during an international electronic music festival in Playa Del Carmen, and tourists were among the dead, officials said....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Murders, Attempted Murders and Homicides", 
-            "Bars and Nightclubs", 
-            "Stampedes"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/16/world/americas/mexico-bpm-festival-shooting-playa-del-carmen.html", 
-        "word_count": "610"
-    }, 
-    {
-        "date": "2017-01-14T10:00:58+0000", 
-        "desk": null, 
-        "headline": "Basking in Butterflies", 
-        "id": "5879f6e57c459f2525d168fe", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Multimedia/Photos", 
-        "snippet": "Every year, thousands of monarch butterflies migrate from eastern Canada to Michoacan, Mexico. Step inside a butterfly reserve in Michoacan to see where they make their winter homes....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Butterflies and Moths"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/multimedia/100000004862056/basking-in-butterflies.html", 
-        "word_count": 28
-    }, 
-    {
-        "date": "2017-01-13T08:21:23+0000", 
-        "desk": "OpEd", 
-        "headline": "Forget a Wall. There’s a Better Way to Secure the Border.", 
-        "id": "58788e067c459f2525d1659e", 
-        "locations": [
-            "Canada", 
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Physical barriers won’t do the job, but recent agreements allowing armed U.S. customs agents to screen travelers and cargo in Canada and Mexico will....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "United States Politics and Government", 
-            "United States International Relations", 
-            "Immigration and Emigration", 
-            "Airport Security", 
-            "Firearms", 
-            "Ports"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2017/01/13/opinion/forget-a-wall-theres-a-better-way-to-secure-the-border.html", 
-        "word_count": "808"
-    }, 
-    {
-        "date": "2017-01-10T10:00:04+0000", 
-        "desk": "Travel", 
-        "headline": "Beyond Santa Fe, a Different World", 
-        "id": "5874b0a97c459f2525d15b50", 
-        "locations": [
-            "New Mexico"
-        ], 
-        "section": "Travel", 
-        "snippet": "Getting beyond the bounds of a city that has won over gourmands and new agers to discover pueblos and topographical wonders....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Caves and Caverns", 
-            "Travel and Vacations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/10/travel/beyond-santa-fe-new-mexico-pueblos.html", 
-        "word_count": "740"
-    }, 
-    {
-        "date": "2017-01-08T15:30:51+0000", 
-        "desk": "Foreign", 
-        "headline": "Peña Nieto Faces Unrest in Mexico as Gas Prices Climb and Trump Ascends", 
-        "id": "58725b317c459f2525d1569d", 
-        "locations": [
-            "Mexico", 
-            "United States"
-        ], 
-        "section": "World", 
-        "snippet": "Mexico already faces rising crime and a sluggish economy. Now it is bracing for Donald J. Trump’s threatened crackdown on immigration and trade....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Politics and Government", 
-            "Economic Conditions and Trends", 
-            "International Trade and World Market", 
-            "Oil (Petroleum) and Gasoline", 
-            "Prices (Fares, Fees and Rates)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/08/world/americas/unrest-mexico-pena-nieto-gas-prices-trump.html", 
-        "word_count": "1399"
-    }, 
-    {
-        "date": "2017-01-06T16:22:19+0000", 
-        "desk": "National", 
-        "headline": "<div>Trump Insists Mexico Will Pay for Wall After U.S. Begins the Work</div>", 
-        "id": "586fc4467c459f2525d15354", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "President-elect Donald J. Trump made the comments after Republicans in Congress started discussing ways to include money for the barrier in spending bills....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Illegal Immigration", 
-            "United States Politics and Government", 
-            "United States International Relations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/06/us/politics/trump-wall-mexico.html", 
-        "word_count": "1050"
-    }, 
-    {
-        "date": "2017-01-06T02:27:04+0000", 
-        "desk": "Foreign", 
-        "headline": "For Mexican Leaders, a Turbulent Start to the New Year", 
-        "id": "586f007d7c459f2525d15187", 
-        "locations": [
-            "Mexico", 
-            "United States"
-        ], 
-        "section": "World", 
-        "snippet": "The new turmoil promises to make this year even more difficult for President Enrique Peña Nieto, whose approval ratings have already plunged below 25 percent....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Demonstrations, Protests and Riots"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/05/world/americas/mexico-pena-nieto-trump-turmoil-gasoline.html", 
-        "word_count": "748"
-    }, 
-    {
-        "date": "2017-01-05T02:34:14+0000", 
-        "desk": "Foreign", 
-        "headline": "Mexico’s New Foreign Minister Was Advocate of Visit by Donald Trump", 
-        "id": "586db0b17c459f2525d14e2c", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Luis Videgaray had resigned his previous cabinet post after championing Mr. Trump’s enormously unpopular visit to Mexico City last year....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "United States International Relations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/04/world/americas/mexico-united-states-trump-pena-nieto-videgaray.html", 
-        "word_count": "714"
-    }, 
-    {
-        "date": "2017-01-04T19:11:49+0000", 
-        "desk": "Foreign", 
-        "headline": "Mexicans Are the Nafta Winners? It’s News to Them", 
-        "id": "586d48fe7c459f2525d14d3f", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Donald J. Trump likes to say the trade pact has helped Mexico at the expense of American workers. But for many Mexicans, life is the same struggle as ever....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "North American Free Trade Agreement", 
-            "International Trade and World Market"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/04/world/americas/mexico-donald-trump-nafta.html", 
-        "word_count": "1670"
-    }, 
-    {
-        "date": "2017-01-04T15:16:24+0000", 
-        "desk": "Travel", 
-        "headline": "An Outpost of the Louvre and 2 Saint Laurent Shrines", 
-        "id": "586d11cc7c459f2525d14c88", 
-        "locations": [
-            "Abu Dhabi (United Arab Emirates)", 
-            "Saskatchewan (Canada)", 
-            "Mexico City (Mexico)", 
-            "Cape Town (South Africa)", 
-            "Canada", 
-            "Maine", 
-            "London (England)", 
-            "Paris (France)"
-        ], 
-        "section": "Travel", 
-        "snippet": "This year, art lovers will find museums opening in Abu Dhabi, Cape Town and Saskatoon, along with a commemoration in London of the 20th anniversary of the Harry Potter series....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Travel and Vacations", 
-            "Museums", 
-            "Art", 
-            "Books and Literature", 
-            "Libraries and Librarians"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/04/travel/places-to-go-art-museums-2017.html", 
-        "word_count": "643"
-    }, 
-    {
-        "date": "2017-01-04T01:31:52+0000", 
-        "desk": "National", 
-        "headline": "With Choice of Trade Negotiator, Trump Prepares to Confront Mexico and China", 
-        "id": "586c50967c459f2525d14b06", 
-        "locations": [
-            "China", 
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "Robert Lighthizer shares a view with the president-elect that the United States has prioritized the ideal of free trade over its own self-interest....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "International Trade and World Market", 
-            "United States Politics and Government"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/03/us/politics/trump-robert-lighthizer-trade-mexico.html", 
-        "word_count": "1334"
-    }, 
-    {
-        "date": "2017-01-03T19:45:06+0000", 
-        "desk": "Business Day", 
-        "headline": "Ford Cancels Plans for Mexico Plant", 
-        "id": "586bff687c459f2525d14a5c", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Mark Fields, the C.E.O. of Ford, said market demand – not criticism from Donald Trump – was the main reason for canceling plans to build a Mexican plant....", 
-        "source": "CNBC", 
-        "subjects": [
-            "Automobiles", 
-            "International Trade and World Market"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/business/100000004851885/ford-cancels-plans-for-mexico-plant.html", 
-        "word_count": "28"
-    }, 
-    {
-        "date": "2017-01-03T17:46:27+0000", 
-        "desk": "Business", 
-        "headline": "Even Before He Takes Office, Trump Knocks Automakers on Their Heels", 
-        "id": "586be3817c459f2525d14a0b", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "In a stunning reversal, Ford said it would scrap plans to build a plant in Mexico, while General Motors defended making a “small number” of Chevys there....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Automobiles", 
-            "United States Politics and Government", 
-            "United States Economy", 
-            "Factories and Manufacturing", 
-            "International Trade and World Market"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/03/business/ford-general-motors-trump.html", 
-        "word_count": "1241"
-    }, 
-    {
-        "date": "2017-01-02T01:39:10+0000", 
-        "desk": "Culture", 
-        "headline": "A Secret Jew, the New World, a Lost Book: Mystery Solved", 
-        "id": "5869af437c459f2525d146ff", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Arts", 
-        "snippet": "An octogenarian cracks the case of a missing prized manuscript by Luis de Carvajal the Younger that surfaced on sale for a fraction of its value....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Jews and Judaism", 
-            "Manuscripts", 
-            "Collectors and Collections"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2017/01/01/arts/a-secret-jew-the-new-world-a-lost-book-mystery-solved.html", 
-        "word_count": "1255"
-    }, 
-    {
-        "date": "2016-12-28T14:39:50+0000", 
-        "desk": "Foreign", 
-        "headline": "Near Mexico City, Cable Car Lets Commuters Glide Over Traffic", 
-        "id": "5863ceb97c459f2525d13e28", 
-        "locations": [
-            "Mexico City (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The Mexicable, a new seven-stop route, allows thousands of residents to get to work or school in brightly colored pods....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Cable Cars and Trams", 
-            "Transit Systems"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/28/world/americas/mexico-city-mexicable.html", 
-        "word_count": 1165
-    }, 
-    {
-        "date": "2016-12-28T11:00:27+0000", 
-        "desk": "Travel", 
-        "headline": "My Mexico City Is Everyone’s Now", 
-        "id": "58639b4e7c459f2525d13dd5", 
-        "locations": [
-            "Mexico City (Mexico)"
-        ], 
-        "section": "Travel", 
-        "snippet": "Places that live on in the author’s memories have been wholly transformed as tourists discover her hometown....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Travel and Vacations", 
-            "Mexican Food (Cuisine)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/28/travel/mexico-city-culture-childhood-new-awakening.html", 
-        "word_count": "2778"
-    }, 
-    {
-        "abstract": "Transition team for Pres-elect Donald J Trump is consulting with federal border agents in Texas about construction of new barriers along Mexico border; some local officials feel huge wall that became Trump's signature campaign promise could damage close economic ties between cities on either side of border and would prefer fences be installed.", 
-        "date": "2016-12-22T22:20:44+0000", 
-        "desk": "National", 
-        "headline": "Trump Seeks Path for Mexico Barrier. But Will It Be a ‘Big, Beautiful Wall’?", 
-        "id": "585c51c57c459f2525d134bf", 
-        "locations": [
-            "Mexico", 
-            "Laredo (Tex)", 
-            "Texas"
-        ], 
-        "section": "U.S.", 
-        "snippet": "His transition team has asked border officials for advice on where a barrier can be built, though the plan may involve fencing, a Texas congressman says....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Illegal Immigration"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/22/us/trump-mexico-wall.html", 
-        "word_count": "1023"
-    }, 
-    {
-        "date": "2016-12-22T11:00:02+0000", 
-        "desk": "Travel", 
-        "headline": "Discounts at New Hotels, From Mexico to Orlando", 
-        "id": "585bb23d7c459f2525d1330c", 
-        "locations": [
-            "Mexico", 
-            "Belize", 
-            "Orlando (Fla)", 
-            "Paradise Island (Bahamas)", 
-            "Placencia (Belize)"
-        ], 
-        "section": "Travel", 
-        "snippet": "Properties that have recently opened are offering attractive rates during their initial seasons....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Travel and Vacations", 
-            "Hotels and Travel Lodgings", 
-            "Spas"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/22/travel/new-hotel-discounts-mexico-to-florida.html", 
-        "word_count": 245
-    }, 
-    {
-        "date": "2016-12-22T01:31:24+0000", 
-        "desk": "Foreign", 
-        "headline": "Despite Blast in Mexico, a Clamor to Rebuild Fireworks Market", 
-        "id": "585b2cf17c459f2525d13211", 
-        "locations": [
-            "Tultepec (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "As families congregated in hospitals to visit loved ones or look for the missing, there was scarcely a word of criticism for the failings in accountability that led to the fire....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Explosions (Accidental)", 
-            "Fireworks"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/21/world/americas/despite-fatal-blast-mexicans-clamor-to-rebuild-fireworks-market.html", 
-        "word_count": 1333
-    }, 
-    {
-        "date": "2016-12-21T21:19:35+0000", 
-        "desk": "World / Americas", 
-        "headline": "After Mexico Fireworks Blast, Families Search for Missing", 
-        "id": "585af1ec7c459f2525d13189", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The search continues for dozens of people missing after a series of explosions on Monday at a market in Tultepec, Mexico....", 
-        "source": "Reuters", 
-        "subjects": [
-            "Explosions (Accidental)", 
-            "Fireworks"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/world/americas/100000004834733/after-mexico-fireworks-blast-families-search-for-missing.html", 
-        "word_count": "21"
-    }, 
-    {
-        "date": "2016-12-21T10:00:41+0000", 
-        "desk": "National", 
-        "headline": "At the Southern Border, a Do-It-Yourself Tack on Security", 
-        "id": "585a52d07c459f2525d12fb0", 
-        "locations": [
-            "Arizona", 
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "A group of veterans and ex-police officers, probing for migrant and drug traffic just north of Mexico, considers itself a citizens’ border patrol. Critics call it a militia....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Illegal Immigration", 
-            "Immigration and Emigration", 
-            "Smuggling"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/21/us/at-the-southern-border-a-do-it-yourself-tack-on-security.html", 
-        "word_count": 656
-    }, 
-    {
-        "date": "2016-12-21T00:29:09+0000", 
-        "desk": "World / Americas", 
-        "headline": "Explosion at Mexican Fireworks Market", 
-        "id": "5859ccde7c459f2525d12e9e", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "A passer-by in a car captured the flames, smoke and loud explosions of the blast at an open-air market in Tultepec....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Fireworks", 
-            "Disasters and Emergencies"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/world/americas/100000004833800/explosion-at-mexican-fireworks-market.html", 
-        "word_count": 21
-    }, 
-    {
-        "abstract": "Explosion at San Pablito fireworks market in Tultepec, Mexico, kills at least 27 people and injures 70.", 
-        "date": "2016-12-21T00:23:48+0000", 
-        "desk": "Foreign", 
-        "headline": "Explosion at Fireworks Market in Mexico Kills Dozens", 
-        "id": "5859cb997c459f2525d12e9a", 
-        "locations": [
-            "Tultepec (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The blast at the open-air San Pablito Market in Tultepec, on the outskirts of Mexico City, left at least 27 dead....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Fireworks", 
-            "Explosions (Accidental)", 
-            "Fires and Firefighters"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/20/world/americas/mexico-fireworks-explosion.html", 
-        "word_count": "383"
-    }, 
-    {
-        "date": "2016-12-16T13:00:03+0000", 
-        "desk": "Travel", 
-        "headline": "Zika Fears Fading, Renewed Interest in Caribbean and Mexico", 
-        "id": "5853e5587c459f2525d123ea", 
-        "locations": [
-            "Caribbean Area", 
-            "Mexico", 
-            "Dominican Republic", 
-            "Riviera Maya (Mexico)", 
-            "Punta Cana (Dominican Republic)", 
-            "Puerto Rico"
-        ], 
-        "section": "Travel", 
-        "snippet": "Travelers are booking trips after the World Health Organization said that the virus was no longer a global health emergency....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Travel and Vacations", 
-            "Zika Virus", 
-            "Hotels and Travel Lodgings"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/16/travel/zika-fears-fading-caribbean-mexico-interest.html", 
-        "word_count": 688
-    }, 
-    {
-        "date": "2016-12-15T23:05:21+0000", 
-        "desk": "Foreign", 
-        "headline": "Mexican Report Says Investigators Botched Search for 43 Students", 
-        "id": "585331fa7c459f2525d12238", 
-        "locations": [
-            "Iguala (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "A review that the government refuses to release found that suspects had been arrested and moved illegally, jeopardizing any criminal case in the 2014 disappearance....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Police Brutality, Misconduct and Shootings", 
-            "Missing Persons", 
-            "Kidnapping and Hostages"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/15/world/americas/Iguala-mexico-missing-students-report.html", 
-        "word_count": 1298
-    }, 
-    {
-        "abstract": "Russian cyberattacks on Democratic candidates in nearly dozen House races underscores effect of Russian operation on American electoral system; attacks were largely overshadowed by hacking of Democratic National Convention and Hillary Clinton's presidential campaign; Russian Pres Vladimir Putin's intent may have been to make American democracy less attractive to his own citizens and neighboring countries.", 
-        "date": "2016-12-14T01:02:03+0000", 
-        "desk": "National", 
-        "headline": "Democratic House Candidates Were Also Targets of Russian Hacking", 
-        "id": "58509a107c459f2525d11aaf", 
-        "locations": [
-            "Russia", 
-            "Pennsylvania", 
-            "New Mexico", 
-            "United States", 
-            "Florida", 
-            "New Hampshire"
-        ], 
-        "section": "U.S.", 
-        "snippet": "The fallout for nearly a dozen congressional candidates underscores the effect of the Russian influence operation on the American electoral system....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Cyberwarfare and Defense", 
-            "Presidential Election of 2016", 
-            "Elections, House of Representatives"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/13/us/politics/house-democrats-hacking-dccc.html", 
-        "word_count": "1935"
-    }, 
-    {
-        "abstract": "Homicide rate in Mexico reaches highest level since 2012, with 17,063 murders in first 10 months of 2016; surge reflects limits of North America's counternarcotics strategy in increasingly volatile criminal landscape.", 
-        "date": "2016-12-13T10:00:23+0000", 
-        "desk": "Foreign", 
-        "headline": "Mexico Grapples With a Surge in Violence", 
-        "id": "584fc6c27c459f2525d11845", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "In the first 10 months of this year, there were 17,063 homicide cases in Mexico, the highest 10-month tally since 2012....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Drug Abuse and Traffic", 
-            "Politics and Government", 
-            "Murders, Attempted Murders and Homicides"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/13/world/americas/mexico-drug-war-violence-donald-trump-wall.html", 
-        "word_count": "1621"
-    }, 
-    {
-        "date": "2016-12-08T00:04:12+0000", 
-        "desk": "Business", 
-        "headline": "New Mexico Businessman Accused of Deceiving Low-Income Home Buyers", 
-        "id": "5848a41d7c459f2525d10987", 
-        "locations": [
-            "New Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Officials said he misrepresented the condition of poorly maintained homes sold to Spanish-speaking families, and sometimes sold houses he didn’t own....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Real Estate and Housing (Residential)", 
-            "Foreclosures", 
-            "Consumer Protection", 
-            "Mortgages", 
-            "Attorneys General"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/07/business/dealbook/albuquerque-new-mexico-jesus-cano.html", 
-        "word_count": 651
-    }, 
-    {
-        "abstract": "International House Hunting column; Villa Las Glorias, five-bedroom beachfront house with caretaker's cottage located on Mexican island of Cozumel is listed at $1.5 million; information about market and tips for buying properties in Cozumel highlighted.", 
-        "date": "2016-12-07T14:31:28+0000", 
-        "desk": "RealEstate", 
-        "headline": "House Hunting in ... Mexico", 
-        "id": "58481d4b7c459f2525d10787", 
-        "locations": [
-            "Cozumel (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "Real Estate", 
-        "snippet": "It’s a buyer’s market in Cozumel, but that is changing, brokers said....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Real Estate and Housing (Residential)", 
-            "Travel and Vacations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/07/realestate/real-estate-in-mexico.html", 
-        "word_count": "1107"
-    }, 
-    {
-        "date": "2016-12-07T13:51:25+0000", 
-        "desk": "OpEd", 
-        "headline": "Will the Next Deepwater Horizon Be in Mexico?", 
-        "id": "584813e67c459f2525d1075f", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Opening its waters to oil-and-gas companies is a disaster waiting to happen....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Oil (Petroleum) and Gasoline", 
-            "Politics and Government"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2016/12/07/opinion/will-the-next-deepwater-horizon-be-in-mexico.html", 
-        "word_count": "909"
-    }, 
-    {
-        "date": "2016-12-07T05:16:16+0000", 
-        "desk": "Travel", 
-        "headline": "Temples for the Literary Pilgrim", 
-        "id": "58479b277c459f2525d10613", 
-        "locations": [
-            "Oporto (Portugal)", 
-            "Mexico City (Mexico)", 
-            "Hangzhou (China)", 
-            "Paris (France)", 
-            "Santorini (Greece)", 
-            "Victoria (British Columbia)", 
-            "Buenos Aires (Argentina)", 
-            "South Africa"
-        ], 
-        "section": "Travel", 
-        "snippet": "From Mexico City to Hangzhou, bookstores that are destinations in and of themselves....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Books and Literature", 
-            "Travel and Vacations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/07/travel/temples-for-the-literary-pilgrim.html", 
-        "word_count": "2783"
-    }, 
-    {
-        "abstract": "Mexican government strikes billion-dollar deal to sell Exxon Mobil, Chevron, Total of France, China National Offshore Oil Corp and other international oil companies exploratory blocks for drilling in Gulf of Mexico; steep price displays industry's confidence oil prices will recover.", 
-        "date": "2016-12-06T01:18:25+0000", 
-        "desk": "Business", 
-        "headline": "Oil and Gas Industry Leaders Eagerly Take Stakes in Mexican Offshore Fields", 
-        "id": "584611e57c459f2525d101e0", 
-        "locations": [
-            "Gulf of Mexico", 
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Looking beyond current low oil prices, the companies paid billions in an auction of deepwater drilling rights in the Gulf of Mexico....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Oil (Petroleum) and Gasoline", 
-            "International Trade and World Market", 
-            "Prices (Fares, Fees and Rates)", 
-            "Offshore Drilling and Exploration"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/05/business/energy-environment/oil-and-gas-industry-takes-stakes-in-mexican-offshore-fields.html", 
-        "word_count": "1029"
-    }, 
-    {
-        "date": "2016-12-03T05:01:18+0000", 
-        "desk": "SpecialSections", 
-        "headline": "Making a Grand Prix More Grand: Taylor Swift Doesn’t Hurt", 
-        "id": "584251a37c459f2525d0fb49", 
-        "locations": [
-            "Austin (Tex)", 
-            "Mexico City (Mexico)"
-        ], 
-        "section": "Sports", 
-        "snippet": "Leaders of the racing venues in Mexico and Texas share ideas on growing the audience and the experience for fans....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Automobile Racing", 
-            "United States Grand Prix (Auto Race)"
-        ], 
-        "type": "Question", 
-        "url": "https://www.nytimes.com/2016/12/03/sports/autoracing/making-a-grand-prix-more-grand-taylor-swift-doesnt-hurt.html", 
-        "word_count": "1137"
-    }, 
-    {
-        "date": "2016-12-02T21:18:42+0000", 
-        "desk": "Business Day / Economy", 
-        "headline": "How Deals Like Nafta Have Affected U.S. Trade", 
-        "id": "5841e5337c459f2525d0fa95", 
-        "locations": [
-            "China", 
-            "Canada", 
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "While trade has contributed to the growth of the American economy, the changing dynamics have also prompted concerns about lost jobs and the rising trade deficit. But when something is manufactured in the United States, the product is typically ma...", 
-        "source": "The New York Times", 
-        "subjects": [
-            "International Trade and World Market", 
-            "North American Free Trade Agreement", 
-            "Textiles", 
-            "United States Economy", 
-            "Oil (Petroleum) and Gasoline"
-        ], 
-        "type": "Interactive Feature", 
-        "url": "https://www.nytimes.com/interactive/2016/12/02/business/economy/globalties-exports-imports.html", 
-        "word_count": null
-    }, 
-    {
-        "date": "2016-12-02T13:21:40+0000", 
-        "desk": "World / Americas", 
-        "headline": "Los Beatlemaniacos", 
-        "id": "584175687c459f2525d0f8d9", 
-        "locations": [
-            "Mexico City (Mexico)"
-        ], 
-        "section": "World", 
-        "snippet": "The Beatles broke up in 1970, but the spirit of the band still thrives in Mexico City....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Memorabilia and Souvenirs", 
-            "Pop and Rock Music"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/world/americas/100000004794361/los-beatlemaniacos.html", 
-        "word_count": "17"
-    }, 
-    {
-        "abstract": "What in the World column; Beatlemania is alive and well in Mexico, where Beatles tribute bands, radio time dedicated to group's music and streets named after band members are common.", 
-        "date": "2016-12-02T10:02:17+0000", 
-        "desk": "Foreign", 
-        "headline": "For Mexico’s ‘Beatlemaniacos,’ All You Need Is Nostalgia", 
-        "id": "584146ad7c459f2525d0f851", 
-        "locations": [
-            "Mexico City (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The Beatles broke up in 1970, but the spirit of the band still thrives in Mexico City, where museum exhibitions, music festivals and cover bands are dedicated to the Fab Four....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Music"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/02/world/what-in-the-world/for-mexicos-beatlemaniacos-all-you-need-is-nostalgia.html", 
-        "word_count": "345"
-    }, 
-    {
-        "abstract": "Editorial argues Pres-elect Donald J Trump's deal to prevent offshoring of 800 jobs at Carrier furnace plant in Indiana is not practical model for keeping manufacturing jobs in America; notes deal is example of government intervention in free market, which Republicans supposedly oppose, that could help working class if expanded into other areas.", 
-        "date": "2016-12-02T01:36:31+0000", 
-        "desk": "Editorial", 
-        "headline": "Carrier Jobs, Saved by Government", 
-        "id": "5840d0257c459f2525d0f750", 
-        "locations": [
-            "Mexico", 
-            "Indiana"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Chalk up a win for President-elect Donald Trump, and the idea of government intervention in the free market....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "International Trade and World Market", 
-            "Labor and Jobs", 
-            "Factories and Manufacturing", 
-            "Layoffs and Job Reductions", 
-            "United States Politics and Government", 
-            "Editorials"
-        ], 
-        "type": "Editorial", 
-        "url": "https://www.nytimes.com/2016/12/01/opinion/carrier-jobs-saved-by-government.html", 
-        "word_count": "665"
-    }, 
-    {
-        "abstract": "Steven Rattner Op-Ed article argues broader decline of American manufacturing jobs cannot be reversed by type of deal Pres-elect Donald J Trump struck to keep 800 jobs at Carrier plant from being moved to Mexico; asserts Trump's tax policies and larger economic plan will harm working-class voters who most ardently support him.", 
-        "date": "2016-12-02T00:52:20+0000", 
-        "desk": "OpEd", 
-        "headline": "Trump’s Chaos Theory: A Single Tweet Causes Jobs to Return", 
-        "id": "5840c5c97c459f2525d0f732", 
-        "locations": [
-            "Indiana", 
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "The president-elect is basking in Carrier’s decision to keep 1,000 workers in the U.S., but his economic plan will actually punish the ones who remain....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Labor and Jobs", 
-            "Layoffs and Job Reductions", 
-            "Factories and Manufacturing", 
-            "United States Politics and Government", 
-            "United States Economy"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2016/12/01/opinion/trumps-chaos-theory-a-single-tweet-causes-jobs-to-return.html", 
-        "word_count": "791"
-    }, 
-    {
-        "abstract": "Bank of Mexico governor Agustin Carstens says he will leave central bank in July 2017 to take job at Bank for International Settlements, Switzerland-based financial institution that acts as bank for central banks; impending departure of well-respected economist causes peso value to fall further and heightens worries about country's economic future given anti-trade stance of American Pres-elect Donald Trump.", 
-        "date": "2016-12-02T00:48:06+0000", 
-        "desk": "Business", 
-        "headline": "Mexico’s Central Bank Chief to Take International Post", 
-        "id": "5840c4d27c459f2525d0f72e", 
-        "locations": [
-            "Mexico", 
-            "Basel (Switzerland)"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Agustín Carstens, governor of the Bank of Mexico, will leave that post next year to become head of the Bank for International Settlements....", 
-        "source": "The New York Times", 
-        "subjects": [], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/12/01/business/international/mexicos-central-bank-chief-to-take-international-post.html", 
-        "word_count": "601"
-    }, 
-    {
-        "abstract": "Donald Trump plans to travel to Carrier air-conditioner plant in Indiana to announce deal with company to keep roughly 1,000 jobs in state, rather than shipping them to Mexico; move is likely to hearten Trump's followers in Rust Belt states and to signal his willingness and ability to take on big business.", 
-        "date": "2016-11-30T00:33:56+0000", 
-        "desk": "Business", 
-        "headline": "Trump to Announce Carrier Plant Will Keep Jobs in U.S.", 
-        "id": "583e1e7c7c459f2525d0efaa", 
-        "locations": [
-            "Indiana", 
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Reversing a plan the president-elect had assailed, the company will keep roughly half of the 2,000 manufacturing jobs in Indiana that it was to shift to Mexico....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Labor and Jobs", 
-            "Presidential Election of 2016", 
-            "Factories and Manufacturing", 
-            "Layoffs and Job Reductions"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/29/business/trump-to-announce-carrier-plant-will-keep-jobs-in-us.html", 
-        "word_count": "1108"
-    }, 
-    {
-        "date": "2016-11-29T08:21:05+0000", 
-        "desk": "Editorial", 
-        "headline": "Threats of an Anti-Muslim Holocaust", 
-        "id": "583d3a7d7c459f2525d0ecda", 
-        "locations": [
-            "Albuquerque (NM)", 
-            "Astoria (Queens, NY)", 
-            "Brooklyn (NYC)", 
-            "California", 
-            "Connecticut", 
-            "Georgia", 
-            "Maine", 
-            "New Haven (Conn)", 
-            "New Mexico", 
-            "New York City", 
-            "Queens (NYC)", 
-            "United States"
-        ], 
-        "section": "Opinion", 
-        "snippet": "These hate crimes and incidents of harassment were all reported in the last two weeks....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Discrimination", 
-            "Vandalism", 
-            "Women and Girls", 
-            "Deportation", 
-            "Arab-Americans", 
-            "Hate Crimes", 
-            "Muslims and Islam"
-        ], 
-        "type": "Editorial", 
-        "url": "https://www.nytimes.com/2016/11/29/opinion/threats-of-an-anti-muslim-holocaust.html", 
-        "word_count": "466"
-    }, 
-    {
-        "date": "2016-11-28T21:30:17+0000", 
-        "desk": "Business", 
-        "headline": "A Resort Development Saga in Mexico", 
-        "id": "583ca1f47c459f2525d0ebb9", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Real Estate", 
-        "snippet": "An English businessman who saw the low-key city of La Paz as an international second home destination says the going has not been easy....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Real Estate and Housing (Residential)", 
-            "Condominiums"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/28/realestate/playa-de-la-paz-mexico-resort.html", 
-        "word_count": "948"
-    }, 
-    {
-        "abstract": "So-called Trump Effect is already taking hold around globe as countries and corporations prepare for Pres-elect Donald J Trump to take office; many are making bets on how he will influence markets, currencies and government policies.", 
-        "date": "2016-11-28T19:40:58+0000", 
-        "desk": "Foreign", 
-        "headline": "‘Trump Effect’ Is Already Shaping Events Around the World", 
-        "id": "583c88507c459f2525d0eb78", 
-        "locations": [
-            "Mexico", 
-            "Germany", 
-            "China", 
-            "Russia"
-        ], 
-        "section": "World", 
-        "snippet": "Donald J. Trump’s election is influencing markets, currencies and government policies as the world bets on how he will rewrite international rules....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Banking and Financial Institutions", 
-            "Economic Conditions and Trends", 
-            "Israeli Settlements", 
-            "United States International Relations", 
-            "International Trade and World Market"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/28/world/middleeast/trump-effect-is-already-shaping-events-around-the-world.html", 
-        "word_count": "1341"
-    }, 
-    {
-        "date": "2016-11-28T10:00:47+0000", 
-        "desk": null, 
-        "headline": "Floating Across the Mexico Border", 
-        "id": "583c00557c459f2525d0ea0d", 
-        "locations": [
-            "Mexico", 
-            "Texas"
-        ], 
-        "section": "U.S.", 
-        "snippet": "While border security may be part of the national conversation, a ferry in a small Texas town has been offering trips to and from Mexico for decades. Take a ride across the Rio Grande....", 
-        "source": "The New York Times", 
-        "subjects": [], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/us/100000004740625/floating-across-the-mexico-border.html", 
-        "word_count": 34
-    }, 
-    {
-        "date": "2016-11-28T01:23:42+0000", 
-        "desk": "Foreign", 
-        "headline": "Can Oil Help Mexico Withstand Trump’s Attack on Trade? It’s Hard to See How", 
-        "id": "583b87297c459f2525d0e955", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "The country’s state-owned oil company, Pemex, is saddled with debt and struggling with production. As a Donald J. Trump presidency looms, fixing it is a top priority....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Oil (Petroleum) and Gasoline", 
-            "International Trade and World Market", 
-            "United States Politics and Government"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/27/world/americas/mexico-oil-pemex-donald-trump.html", 
-        "word_count": 1444
-    }, 
-    {
-        "date": "2016-11-26T01:26:23+0000", 
-        "desk": "Business", 
-        "headline": "Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico", 
-        "id": "5838e4c57c459f2525d0e64e", 
-        "locations": [
-            "Indiana", 
-            "Mexico", 
-            "Monterrey (Mexico)", 
-            "Indianapolis (Ind)"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Two factories in Indiana were slated to close and their jobs moved to Monterrey. Mr. Trump tweeted, “Making progress,” in capital letters....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Factories and Manufacturing", 
-            "International Trade and World Market", 
-            "Layoffs and Job Reductions", 
-            "Labor and Jobs"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/25/business/international/trump-leans-on-carrier-to-keep-2000-us-jobs-from-moving-to-mexico.html", 
-        "word_count": 1023
-    }, 
-    {
-        "date": "2016-11-25T11:00:05+0000", 
-        "desk": "Travel", 
-        "headline": "At Leña Brava in Chicago, Rick Bayless Sings Song of Baja", 
-        "id": "583819bb7c459f2525d0e494", 
-        "locations": [
-            "Chicago (Ill)", 
-            "Baja California (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "Travel", 
-        "snippet": "At his latest restaurant, Rick Bayless aims to showcase a relatively unsung region of Mexico — the state of Baja California....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Restaurants", 
-            "Travel and Vacations"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/25/travel/lena-brava-chicago-mexican-restaurant-rick-bayless.html", 
-        "word_count": 399
-    }, 
-    {
-        "date": "2016-11-24T19:55:42+0000", 
-        "desk": "Business", 
-        "headline": "Trump Cites Progress in Keeping Carrier Air Conditioning Plant in Indiana", 
-        "id": "583745c57c459f2525d0e36f", 
-        "locations": [
-            "Indiana", 
-            "Mexico", 
-            "Indianapolis (Ind)"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Donald J. Trump, who had made coming job losses at a Carrier plant a campaign issue, said he had reached out to the company....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Labor and Jobs", 
-            "United States Politics and Government", 
-            "Factories and Manufacturing"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/24/business/on-twitter-trump-cites-progress-on-restoring-indiana-jobs.html", 
-        "word_count": 609
-    }, 
-    {
-        "date": "2016-11-22T11:59:43Z", 
-        "desk": "OpEd", 
-        "headline": "Mexico Doesn’t Have to Appease Trump. It Can Fight Back.", 
-        "id": "583433357c459f6a5fccf5c8", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "The Mexican government has no reason to cooperate with a hostile administration in Washington....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Presidential Election of 2016", 
-            "United States International Relations", 
-            "North American Free Trade Agreement", 
-            "Immigration and Emigration"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2016/11/22/opinion/mexico-can-stand-up-to-trump.html", 
-        "word_count": "887"
-    }, 
-    {
-        "abstract": "Scans of  pyramid of Kukulkan at the Mayan ruins of Chichen Itza, built around 900 AD, reveal what is thought to be older, original pyramid structure beneath visible ruins; smaller structure may date to between 500 AD and 800 AD.", 
-        "date": "2016-11-21T17:14:04+0000", 
-        "desk": "Science", 
-        "headline": "What’s Inside Mexico’s Pyramid of Kukulkan", 
-        "id": "58332b657c459f6a5fccf349", 
-        "locations": [
-            "Chichen Itza (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Archaeologists have discovered what may be the original structure built at the pyramid of Kukulkan in the Mayan ruins of Chichen Itza....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Archaeology and Anthropology", 
-            "Mayans", 
-            "Pyramids"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/21/world/americas/22obs-pyramid.html", 
-        "word_count": "93"
-    }, 
-    {
-        "date": "2016-11-20T23:27:22+0000", 
-        "desk": "Sports", 
-        "headline": "Monday’s N.F.L. Matchup: Houston Texans (6-3) vs. Oakland Raiders (7-2)", 
-        "id": "5832315f7c459f6a5fccf143", 
-        "locations": [
-            "Mexico City (Mexico)"
-        ], 
-        "section": "Sports", 
-        "snippet": "For the N.F.L.’s first trip to Mexico City since 2005, it is exporting a marquee matchup, with two teams that entered the weekend in first and have connections to Derek Carr....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Football"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/21/sports/football/monday-nfl-matchup-houston-texans-oakland-raiders.html", 
-        "word_count": 119
-    }, 
-    {
-        "date": "2016-11-19T21:28:54+0000", 
-        "desk": "National", 
-        "headline": "Immigrants Who Came to U.S. as Children Fear Deportation Under Trump", 
-        "id": "5830c41b7c459f6a5fccef9f", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "Immigrants protected under President Obama’s DACA program worry about losing the progress they have made and being forced back underground or even deported....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Immigration and Emigration", 
-            "Deferred Action for Childhood Arrivals", 
-            "Illegal Immigration"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/20/us/immigrants-donald-trump-daca.html", 
-        "word_count": 1324
-    }, 
-    {
-        "date": "2016-11-18T21:36:04+0000", 
-        "desk": "Editorial", 
-        "headline": "A Wave of Harassment After Trump’s Victory", 
-        "id": "582f744f7c459f6a5fccedd2", 
-        "locations": [
-            "Ann Arbor (Mich)", 
-            "Connecticut", 
-            "Durham (NC)", 
-            "Florida", 
-            "Jacksonville (Fla)", 
-            "Maryland", 
-            "Massachusetts", 
-            "Mexico", 
-            "Michigan", 
-            "Murfreesboro (Tenn)", 
-            "North Carolina", 
-            "Tennessee", 
-            "York (Pa)"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Reports of intimidation, slurs and attacks have rolled in since Election Day. Here’s how to report incidents and get help....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "States (US)", 
-            "Discrimination", 
-            "Sexual Harassment", 
-            "Homosexuality and Bisexuality", 
-            "Jews and Judaism", 
-            "Lynching", 
-            "Muslims and Islam", 
-            "Hate Crimes", 
-            "Anti-Semitism", 
-            "Mexican-Americans"
-        ], 
-        "type": "Editorial", 
-        "url": "https://www.nytimes.com/2016/11/18/opinion/a-wave-of-harassment-after-trumps-victory.html", 
-        "word_count": 633
-    }, 
-    {
-        "date": "2016-11-18T19:54:06+0000", 
-        "desk": "Business", 
-        "headline": "Ford Move, Cited as Victory by Trump, Has No Effect on U.S. Jobs", 
-        "id": "582f5c627c459f6a5fcced7f", 
-        "locations": [
-            "Louisville (Ky)", 
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "The Kentucky factory already operates around the clock at full capacity, and Lincoln MKCs are only a small portion of the vehicles made there....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Factories and Manufacturing", 
-            "Labor and Jobs", 
-            "Automobiles"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/19/business/ford-move-cited-as-victory-by-trump-has-no-effect-on-us-jobs.html", 
-        "word_count": 997
-    }, 
-    {
-        "date": "2016-11-18T17:38:19+0000", 
-        "desk": "Dining", 
-        "headline": "Noma Chef’s Next Place to Pop Up: Mexico", 
-        "id": "582f3c907c459f6a5fcced1c", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Food", 
-        "snippet": "René Redzepi plans to move his Copenhagen staff to Tulum next spring in a collaboration with Rosio Sanchez....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Restaurants", 
-            "Chefs", 
-            "Mexican Food (Cuisine)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/18/dining/noma-rene-redzepi-restaurant-mexico.html", 
-        "word_count": 673
-    }, 
-    {
-        "abstract": "Aputzio de Juarez Journal; high demand for Mexican avocados in America has led farmers in Aputzio de Juarez to expand their orchards, move that could threaten migration pattern of monarch butterflies.", 
-        "date": "2016-11-17T15:58:43Z", 
-        "desk": "Foreign", 
-        "headline": "Avocados Imperil Monarch Butterflies’ Winter Home in Mexico", 
-        "id": "582dd3c07c459f6a5fcce8e7", 
-        "locations": [
-            "Aputzio de Juarez (Mexico)", 
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Spurred by rising demand for the fruit, farmers in the Mexican state that hosts the annual butterfly migration are replacing a vital forest habitat with orchards....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Avocados", 
-            "Butterflies and Moths", 
-            "Agriculture and Farming", 
-            "Forests and Forestry", 
-            "Conservation of Resources", 
-            "International Trade and World Market"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/18/world/americas/ambition-of-avocado-imperils-monarch-butterflies-winter-home.html", 
-        "word_count": "1257"
-    }, 
-    {
-        "date": "2016-11-17T10:00:45+0000", 
-        "desk": "Sports", 
-        "headline": "The Alabama Crimson Tide of Mexico", 
-        "id": "582d7fd77c459f6a5fcce7d6", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "The Rams of Tec de Monterrey are a college football power. Ask Cam Newton....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Football (College)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/19/sports/ncaafootball/tec-de-monterrey-rams-colleges-mexico.html", 
-        "word_count": 1822
-    }, 
-    {
-        "date": "2016-11-17T05:29:59Z", 
-        "desk": "Sports / College Football", 
-        "headline": "A Football Hotbed in Mexico", 
-        "id": "582d405e7c459f6a5fcce743", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "With a long history, the Tec de Monterrey Borregos Salvajes (Rams) are a powerhouse in a country where football is gaining in popularity....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Football (College)"
-        ], 
-        "type": "Slideshow", 
-        "url": "https://www.nytimes.com/slideshow/2016/11/17/sports/ncaafootball/mexico-colleges-football-teams.html", 
-        "word_count": "23"
-    }, 
-    {
-        "abstract": "Mexican Foreign Ministry announces plan meant to help Mexican immigrants in United States navigate any changes in immigration policy, in response to election of Donald Trump; agency urges Mexican immigrants in US to remain calm.", 
-        "date": "2016-11-17T01:08:31+0000", 
-        "desk": "Foreign", 
-        "headline": "‘Stay Calm,’ Mexican Officials Tell Fearful Immigrants in U.S.", 
-        "id": "582d03147c459f6a5fcce6d7", 
-        "locations": [
-            "Mexico", 
-            "Central America"
-        ], 
-        "section": "World", 
-        "snippet": "The foreign minister announced a plan to help Mexicans get accurate information and avoid scams related to deportation policies in a Trump administration....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Immigration and Emigration", 
-            "Deportation", 
-            "United States Politics and Government"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/17/world/americas/mexico-immigrants-trump-deportations.html", 
-        "word_count": "620"
-    }, 
-    {
-        "date": "2016-11-16T20:03:59Z", 
-        "desk": "Editorial", 
-        "headline": "Republican Falsehoods About Obamacare", 
-        "id": "582cbbb97c459f6a5fcce60e", 
-        "locations": [
-            "Connecticut", 
-            "Maryland", 
-            "Mississippi", 
-            "New Mexico", 
-            "Southern States (US)", 
-            "Texas", 
-            "Arizona", 
-            "California"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Paul Ryan and others claim that Obamacare is hurting people with Medicare and employer-provided insurance. They’re wrong....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "States (US)", 
-            "Income", 
-            "Health Insurance and Managed Care", 
-            "Medicare", 
-            "Patient Protection and Affordable Care Act (2010)"
-        ], 
-        "type": "Editorial", 
-        "url": "https://www.nytimes.com/2016/11/16/opinion/republican-falsehoods-about-obamacare.html", 
-        "word_count": "370"
-    }, 
-    {
-        "abstract": "Study in journal PeerJ reports discovery of three species of two-inch-long salamanders belonging to endangered Thorius genus of amphibians in Mexican forest; species, named T pinicola, T longicaudus and T tlaxiacus, are nearly extinct.", 
-        "date": "2016-11-16T16:05:01Z", 
-        "desk": "Science", 
-        "headline": "Tiny Salamanders Represent Three New Species", 
-        "id": "582c83b87c459f6a5fcce55f", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Science", 
-        "snippet": "The specimens were collected deep in the Mexican forest and are of species that are nearly extinct....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Endangered and Extinct Species", 
-            "Salamanders"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/22/science/tiny-salamanders-represent-three-new-species.html", 
-        "word_count": "161"
-    }, 
-    {
-        "date": "2016-11-15T11:06:15+0000", 
-        "desk": "OpEd", 
-        "headline": "Mexico Awaits Trump’s Next Move", 
-        "id": "582aec2c7c459f6a5fcce0be", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Even without a wall, his border-bashing could backfire on the United States....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Presidential Election of 2016", 
-            "United States International Relations", 
-            "Illegal Immigration", 
-            "Mexican-Americans", 
-            "North American Free Trade Agreement"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2016/11/16/opinion/mexico-awaits-trumps-next-move.html", 
-        "word_count": "942"
-    }, 
-    {
-        "abstract": "Play of forwards Jozy Altidore and Bobby Wood is among few positives for United States men's national soccer team, whose 2-1 loss to Mexico was its first home defeat in World Cup qualifier in 15 years; fans and media are question coach Jurgen Klinsmann's tactical choices.", 
-        "date": "2016-11-15T02:22:30Z", 
-        "desk": "Sports", 
-        "headline": "Bobby Wood and Jozy Altidore Step Forward as U.S. Team Is Set Back", 
-        "id": "582a716b7c459f6a5fccdfad", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "Wood, an emerging star, and Altidore, a veteran, stood out for their complementary efforts in the Americans’ loss to Mexico in a World Cup qualifier on Friday....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "World Cup 2018 (Soccer)", 
-            "Soccer"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/15/sports/soccer/united-states-bobby-wood-jozy-altidore.html", 
-        "word_count": "1143"
-    }, 
-    {
-        "abstract": "Mexico grapples with uncertainty surrounding Donald J Trump's stunning victory in American presidential election, in light of his racist comments towards Mexican immigrants while campaigning and his stance on immigration; many Mexicans express feeling anxious regarding future of diplomatic relations with United States. ", 
-        "date": "2016-11-14T20:02:33Z", 
-        "desk": "Foreign", 
-        "headline": "After Trump’s Win, an Anxious Mexico Asks: What’s Next?", 
-        "id": "582a18a17c459f6a5fccdecc", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "World", 
-        "snippet": "Clouds have descended over Mexico, miring the nation in a state of anguish and paralysis over what the incoming United States president has in store for it....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Presidential Election of 2016", 
-            "Mexican-Americans", 
-            "Immigration and Emigration"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/15/world/americas/mexico-donald-trump-enrique-pena-nieto.html", 
-        "word_count": "1389"
-    }, 
-    {
-        "date": "2016-11-14T14:41:53Z", 
-        "desk": "OpEd", 
-        "headline": "Who Owns the Street in Mexico City?", 
-        "id": "5829cd3d7c459f6a5fccddde", 
-        "locations": [
-            "Mexico City (Mexico)"
-        ], 
-        "section": "Opinion", 
-        "snippet": "Bicycle riders fight a daily battle for space with cars and drivers....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Bicycles and Bicycling", 
-            "Infrastructure (Public Works)", 
-            "Area Planning and Renewal"
-        ], 
-        "type": "Op-Ed", 
-        "url": "https://www.nytimes.com/2016/11/15/opinion/who-owns-the-street-in-mexico-city.html", 
-        "word_count": "1139"
-    }, 
-    {
-        "abstract": "“The Other Side’’ documents the monthly meetings between a musician and his daughter who have been on either side of the United States-Mexico border.", 
-        "date": "2016-11-14T09:01:59Z", 
-        "desk": null, 
-        "headline": "A Song of Love and Longing on the Mexican Border", 
-        "id": "58297d927c459f6a5fccdd22", 
-        "locations": [
-            "Mexico", 
-            "United States"
-        ], 
-        "section": "Multimedia/Photos", 
-        "snippet": "“The Other Side’’ documents the monthly meetings between a musician and his daughter who have been on either side of the United States-Mexico border....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Fences", 
-            "Music", 
-            "Photography"
-        ], 
-        "type": "Blog", 
-        "url": "https://lens.blogs.nytimes.com/2016/11/14/a-song-of-love-and-longing-on-the-mexican-border/", 
-        "word_count": "263"
-    }, 
-    {
-        "abstract": "Pres-elect Donald J Trump eases back on some of his hardest-line positions on immigration but reaffirms his intent to roll back abortion rights, taking to Twitter to lash out at critics; Trump's newly-energized social media salvo, unparalleled in history of presidential communication, hints of plans to carry confrontational style of speaking to Americans with him to White House, in effort to blunt impact of news organizations that do not openly affirm his views.", 
-        "date": "2016-11-13T22:22:44+0000", 
-        "desk": "National", 
-        "headline": "Donald Trump Appears to Soften Stance on Immigration, but Not on Abortion", 
-        "id": "5828e7bd7c459f6a5fccdc16", 
-        "locations": [
-            "United States", 
-            "Mexico"
-        ], 
-        "section": "U.S.", 
-        "snippet": "The president-elect said his immigration priority was to deport up to three million undocumented immigrants rather than 11 million and that his border wall might be a fence in places....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Presidential Election of 2016", 
-            "United States Politics and Government", 
-            "Illegal Immigration", 
-            "Abortion", 
-            "Social Media", 
-            "News and News Media"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/14/us/politics/donald-trump-twitter-white-house.html", 
-        "word_count": "1389"
-    }, 
-    {
-        "date": "2016-11-12T15:13:50+0000", 
-        "desk": "Foreign", 
-        "headline": "Fleeing Gangs, Central American Families Surge Toward U.S.", 
-        "id": "582731b37c459f6a5fccd9f9", 
-        "locations": [
-            "Mexico", 
-            "Central America", 
-            "El Salvador", 
-            "Honduras", 
-            "Guatemala"
-        ], 
-        "section": "World", 
-        "snippet": "Gang violence and economic desperation in Guatemala, Honduras and El Salvador have driven an exodus of migrants that President-elect Donald J. Trump will have to address....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Immigration and Emigration", 
-            "Asylum, Right of", 
-            "Refugees and Displaced Persons", 
-            "Gangs"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/13/world/americas/fleeing-gangs-central-american-families-surge-toward-us.html", 
-        "word_count": 1406
-    }, 
-    {
-        "abstract": "Workers at Carrier factory in Indianapolis are hoping promises made by Pres-elect Donald J Trump will stop their plant and its 1,400 well-paying jobs from moving to Monterrey, Mexico; Trump made their situation talking point in his election campaign, vowing to place high tariffs on Carrier products if they become Mexican exports; many blue-collar laborers who voted for Trump see this as test of president-elect's commitment.", 
-        "date": "2016-11-12T10:00:40Z", 
-        "desk": "SundayBusiness", 
-        "headline": "Can Trump Save Their Jobs? They’re Counting on It", 
-        "id": "5826e84f7c459f6a5fccd9b2", 
-        "locations": [
-            "Indiana", 
-            "Mexico"
-        ], 
-        "section": "Business Day", 
-        "snippet": "Employees of a Carrier plant that is scheduled to move to Mexico in 2019 say they expect the president-elect to follow through on his vow to come to their aid....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Presidential Election of 2016", 
-            "Labor and Jobs", 
-            "Factories and Manufacturing", 
-            "United States Economy"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/13/business/economy/can-trump-save-their-jobs-theyre-counting-on-it.html", 
-        "word_count": "2767"
-    }, 
-    {
-        "abstract": "Mexico beats United States, 2-1, in 2018 World Cup qualifying match.", 
-        "date": "2016-11-12T05:11:30Z", 
-        "desk": "Sports", 
-        "headline": "Mexico Ends Its Soccer Frustration on U.S. Soil", 
-        "id": "5826a4887c459f6a5fccd97a", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "After four losses to the host Americans by the same score, 2-0, during World Cup qualifying, Rafael Márquez buried a header in the second half that gave the Mexicans a 2-1 victory....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Soccer", 
-            "World Cup (Soccer)", 
-            "World Cup 2018 (Soccer)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/12/sports/soccer/united-states-mexico-world-cup-qualifier.html", 
-        "word_count": "655"
-    }, 
-    {
-        "abstract": "Sam Borden On Soccer column describes tense atmosphere surrounding World Cup qualifying match between Mexico and United States in Columbus, Ohio, which Mexico won, 2-0, following Donald J Trump's victory in 2016 US presidential election; notes Trump has called for deporting undocumented immigrants and building wall between two countries.", 
-        "date": "2016-11-11T18:33:52Z", 
-        "desk": "Sports", 
-        "headline": "Before U.S. and Mexico Play, Fans Push for Respect in a Charged Atmosphere", 
-        "id": "58260f187c459f6a5fccd845", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "Unusual feelings surround this World Cup qualifier, the most significant sporting event involving an American national team since the charged presidential election....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Soccer", 
-            "Presidential Election of 2016", 
-            "Illegal Immigration"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/12/sports/soccer/united-states-mens-national-team-mexico-president-election.html", 
-        "word_count": "1188"
-    }, 
-    {
-        "abstract": "Young soccer players who live in border areas between United States and Mexico face number of added quandaries other than whether to devote their lives to sport; primary choice for them is to choose country in which to pursue their passion.", 
-        "date": "2016-11-10T20:49:36Z", 
-        "desk": "Sports", 
-        "headline": "‘It Is America. But I Want to Play in Mexico.’", 
-        "id": "5824dd657c459f6a5fccd546", 
-        "locations": [
-            "Mexico"
-        ], 
-        "section": "Sports", 
-        "snippet": "Soccer prospects near the United States-Mexico border face an early decision about their careers that comes with long-term consequences....", 
-        "source": "The New York Times", 
-        "subjects": [
-            "Soccer", 
-            "Mexican-Americans", 
-            "World Cup (Soccer)"
-        ], 
-        "type": "News", 
-        "url": "https://www.nytimes.com/2016/11/11/sports/soccer/united-states-mexico-players.html", 
-        "word_count": "2826"
-    }, 
-    {
-        "date": "2016-11-09T19:55:15Z", 
-        "desk": "World / Americas", 
-        "headline": "Mexico Reacts to U.S. Election Results", 
-        "id": "58237f427c459f6a5fccd1e7", 
-        "locations": [
-            "Mexico", 
-            "United States"
-        ], 
-        "section": "World", 
-        "snippet": "People in Mexico said they were concerned after Donald J. Trump won the American presidency Tuesday night....", 
-        "source": "Reuters", 
-        "subjects": [
-            "Elections"
-        ], 
-        "type": "Video", 
-        "url": "https://www.nytimes.com/video/world/americas/100000004759301/mexico-reacts-to-us-election-results.html", 
-        "word_count": "17"
     }
 ]
