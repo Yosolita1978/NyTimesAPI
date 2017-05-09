@@ -35,7 +35,28 @@ def find_max(dic):
     return commons
 
 
+def find_desk(list_dicts):
+    desk_dic = {}
+    for dic in list_dicts:
+        desk = dic["desk"]
+        if desk == None:
+            continue
+        if desk not in desk_dic:
+            desk_dic[desk] = 1
+        else:
+            desk_dic[desk] += 1
 
+    return desk_dic
+
+def find_max_desk(dic):
+
+    deskes = dic.items()
+    def getKey(tup):
+        word, value = tup
+        return value
+
+    commons_desks = sorted(deskes, key=getKey, reverse=True)
+    return commons_desks
 
 trump = read_json('data_trump.json')
 words = find_common_headlines(trump)
@@ -53,4 +74,15 @@ print "The most commons words in the headlines about Mexico in the 100 first day
 for tup in commons_obama[:11]:
     print tup
 
+trump_desk = find_desk(trump)
+favorite_desk_trump = find_max_desk(trump_desk)
+print "News about Mexico in the Trump administration came from these desks:"
+for tup in favorite_desk_trump:
+    print tup
+
+obama_desk = find_desk(obama)
+favorite_desk_obama = find_max_desk(obama_desk)
+print "News about Mexico in the Obama administration came from these desks:"
+for tup in favorite_desk_obama:
+    print tup
 
