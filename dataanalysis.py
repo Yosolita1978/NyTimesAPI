@@ -1,4 +1,5 @@
 import json
+import io
 
 
 def read_json(files):
@@ -58,31 +59,14 @@ def find_max_desk(dic):
     commons_desks = sorted(deskes, key=getKey, reverse=True)
     return commons_desks
 
-trump = read_json('data_trump.json')
-words = find_common_headlines(trump)
-commons = find_max(words)
 
-print "The most commons words in the headlines about Mexico in the 100 first days of Trump are:"
-for tup in commons[:11]:
-    print tup
+def convert_json_for_d3(json):
 
-obama = read_json('data_obama.json')
-words_obama = find_common_headlines(obama)
-commons_obama = find_max(words_obama)
+    read_data = read_json(json)
+    all_words = find_common_headlines(read_data)
+    commons_words = dict(find_max(all_words))
+    with io.open('obama.json', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(commons_words, ensure_ascii=False))
 
-print "The most commons words in the headlines about Mexico in the 100 first days of Obama are:"
-for tup in commons_obama[:11]:
-    print tup
 
-trump_desk = find_desk(trump)
-favorite_desk_trump = find_max_desk(trump_desk)
-print "News about Mexico in the Trump administration came from these desks:"
-for tup in favorite_desk_trump:
-    print tup
-
-obama_desk = find_desk(obama)
-favorite_desk_obama = find_max_desk(obama_desk)
-print "News about Mexico in the Obama administration came from these desks:"
-for tup in favorite_desk_obama:
-    print tup
-
+print (convert_json_for_d3('data_obama.json'))
