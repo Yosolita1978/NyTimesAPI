@@ -11,6 +11,8 @@ d3.select("div")
 .attr("class", "bubbles")
 .attr("width", 200)
 .attr("height", 200)
+.style("display", "block")
+.style("margin", "0 auto")
 
 
 var dataset;
@@ -22,7 +24,7 @@ var dataset;
         dataset = data;
       }
       var chart = bubbleChart().width(600).height(400);
-      d3.select('#chart').data(dataset).call(chart);
+      d3.select('.test').data(dataset).call(chart);
     });
 
 function bubbleChart() {
@@ -86,7 +88,7 @@ function bubbleChart() {
             })
             .attr('transform', 'translate(' + [width / 2, height / 2] + ')')
             .on("mouseover", function(d) {
-                tooltip.html(d[columnForColors] + "<br>" + d.title + "<br>" + d[columnForRadius] + " hearts");
+                tooltip.html(d[columnForColors] + "<br>" + d[columnForRadius] + " mentions");
                 return tooltip.style("visibility", "visible");
             })
             .on("mousemove", function() {
