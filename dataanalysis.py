@@ -70,3 +70,4 @@ def convert_json_for_d3(json):
 
 
 print (convert_json_for_d3('data_obama.json'))
+

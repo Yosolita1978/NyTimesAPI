@@ -23,7 +23,7 @@ var dataset;
       } else{
         dataset = data;
       }
-      var chart = bubbleChart().width(600).height(400);
+      var chart = bubbleChart().width(900).height(500);
       d3.select('.test').data(dataset).call(chart);
     });
 
@@ -31,6 +31,7 @@ function bubbleChart() {
     var width = 960,
         height = 960,
         maxRadius = 6,
+        columnForData = "President"
         columnForColors = "Word",
         columnForRadius = "frequency";
 
@@ -46,16 +47,19 @@ function bubbleChart() {
             .style("visibility", "hidden")
             .style("color", "white")
             .style("padding", "8px")
-            .style("background-color", "#626D71")
-            .style("border-radius", "6px")
+            .style("background-color", "#02b3e3")
+            .style("border-radius", "4px")
             .style("text-align", "center")
             .style("font-family", "monospace")
-            .style("width", "400px")
+            .style("width", "200px")
             .text("");
 
+        d3.select("#split").on("click", function(){
+            console.log("you click on split")
+        });
 
         var simulation = d3.forceSimulation(dataset)
-            .force("charge", d3.forceManyBody().strength([-50]))
+            .force("collide", d3.forceCollide(10))
             .force("x", d3.forceX())
             .force("y", d3.forceY())
             .on("tick", ticked);
@@ -88,7 +92,7 @@ function bubbleChart() {
             })
             .attr('transform', 'translate(' + [width / 2, height / 2] + ')')
             .on("mouseover", function(d) {
-                tooltip.html(d[columnForColors] + "<br>" + d[columnForRadius] + " mentions");
+                tooltip.html(d[columnForColors] + "<br>" +  d[columnForRadius] + " mentions" + "<br>" + d[columnForData]);
                 return tooltip.style("visibility", "visible");
             })
             .on("mousemove", function() {
