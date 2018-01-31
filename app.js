@@ -1,6 +1,6 @@
 d3.select("div")
 .insert("h2")
-.text("The most commons words in the headlines about Mexico")
+.text("The most commons words in 2018 SOTU")
 .attr("class", "test")
 .style("color", '#673ab7')
 .style("text-align", "center")
@@ -16,7 +16,7 @@ d3.select("div")
 
 
 var dataset;
-    d3.csv('output_trump.csv', function(error, data) {
+    d3.csv('sotu.csv', function(error, data) {
       if (error) {
           console.error('Error getting or parsing the data.');
           throw error;
@@ -33,7 +33,7 @@ function bubbleChart() {
         maxRadius = 6,
         columnForData = "President"
         columnForColors = "Word",
-        columnForRadius = "frequency";
+        columnForRadius = "Ocurrence";
 
     function chart(selection) {
         var data = selection.enter().data();
@@ -92,7 +92,7 @@ function bubbleChart() {
             })
             .attr('transform', 'translate(' + [width / 2, height / 2] + ')')
             .on("mouseover", function(d) {
-                tooltip.html(d[columnForColors] + "<br>" +  d[columnForRadius] + " mentions" + "<br>" + d[columnForData]);
+                tooltip.html(d[columnForColors] + "<br>" +  d[columnForRadius] + " mentions");
                 return tooltip.style("visibility", "visible");
             })
             .on("mousemove", function() {
